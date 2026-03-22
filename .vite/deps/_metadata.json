@@ -1,0 +1,58 @@
+{
+  "hash": "6de47c19",
+  "configHash": "74127c04",
+  "lockfileHash": "66b4ebf3",
+  "browserHash": "f0f7c44e",
+  "optimized": {
+    "react-datepicker": {
+      "src": "../../node_modules/react-datepicker/dist/index.es.js",
+      "file": "react-datepicker.js",
+      "fileHash": "9bc08ad1",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "e227b626",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "9c5ea41c",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "c2f54630",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "8f3a96a0",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "dd7b5874",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "clsx-BUU5J41u": {
+      "file": "clsx-BUU5J41u.js",
+      "isDynamicEntry": false
+    },
+    "react-3_O8oni9": {
+      "file": "react-3_O8oni9.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-CyLqNIDr": {
+      "file": "react-dom-CyLqNIDr.js",
+      "isDynamicEntry": false
+    }
+  }
+}
